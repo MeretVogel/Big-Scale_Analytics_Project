@@ -1,4 +1,4 @@
-# Big-Scale_Analytics_Project
+# Big-Scale Analytics Project
 ## 🖋 Useful Papers 
 
 Characterizing Text Difficulty with Word Frequencies: https://www.aclweb.org/anthology/W16-0509.pdf
