@@ -9,6 +9,10 @@ The effect of word familiarity on actual and perceived text difficulty: https://
 
 Applying Natural Language Processing and Hierarchical Machine Learning Approaches to Text Difficulty Classification: https://link.springer.com/article/10.1007/s40593-020-00201-7
 
+--> "Feng et al. (2010), further demonstrated that classification models performed better than regression models."
+
+--> "Tanaka-Ishii et al. (2010) used a slightly different method from other researchers, treating text readability as a ranking problem rather than classification or regression."
+
 Comparing Machine Learning Classification Approaches for Predicting Expository Text Difficulty: https://eric.ed.gov/?id=ED585216
 
 
