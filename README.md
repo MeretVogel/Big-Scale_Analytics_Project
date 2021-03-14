@@ -1,5 +1,11 @@
-# Big-Scale Analytics Project
-## 🖋 Useful Papers 
+# Big-Scale Analytics
+# Welcome to the Github of the **🚅Team SBB🚅**
+This team is composed of Meret Vogel, Alberto Molinaro and Pierre Huber.
+
+## 🔍 Project description
+For the class "Big-Scale Analytics", which is part of our Master's programm in Information Systems, we were giving the following challenge:
+
+## 🖋 Useful ressources
 
 #### - Characterizing Text Difficulty with Word Frequencies: https://www.aclweb.org/anthology/W16-0509.pdf
 
@@ -17,7 +23,23 @@
 
 #### - Comparing Machine Learning Classification Approaches for Predicting Expository Text Difficulty: https://eric.ed.gov/?id=ED585216
 
+## 🦮 Guidance
 
-## 👩‍💻 How do we intend to solve the problem?
+Our repository is organised in x folders.
 
-## 🗄 Relevant Datasets
+## 📅 Agenda
+
+Under this section, you will find some information about how we proceeded during the project.
+
+1. Milestone (week 1-3)
+* Github preparation
+* Creation of a data pool of annotated french sentences
+* First discovery
+2. Milestone
+3. Milestone
+
+## 🕵️ Solution
+
+The solution that gave us the best accuracy was a solution using ...
+
+## 📽️ Video
