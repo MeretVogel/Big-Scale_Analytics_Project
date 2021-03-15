@@ -8,7 +8,7 @@ For the class "Big-Scale Analytics", which is part of our Master's programm in I
 ## 🖋 Useful ressources
 
 [1]
-R. Balyan, K. S. McCarthy, et D. S. McNamara, « Applying Natural Language Processing and Hierarchical Machine Learning Approaches to Text Difficulty Classification », Int J Artif Intell Educ, vol. 30, no 3, p. 337 370, oct. 2020, doi: 10.1007/s40593-020-00201-7.
+R. Balyan, K. S. McCarthy, et D. S. McNamara, « Applying Natural Language Processing and Hierarchical Machine Learning Approaches to Text Difficulty Classification », Int J Artif Intell Educ, vol. 30, no 3, p. 337 370, oct. 2020.
 
 * "Feng et al. (2010), further demonstrated that classification models performed better than regression models."
 
@@ -17,7 +17,7 @@ R. Balyan, K. S. McCarthy, et D. S. McNamara, « Applying Natural Language Proce
 * Table 5 Accuracy and F-Scores for classifiers using FKGL and FKGL+ as predictor variable: https://link.springer.com/article/10.1007/s40593-020-00201-7/tables/5
 
 [2]
-X. Chen et D. Meurers, « Characterizing Text Difficulty with Word Frequencies », in Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications, San Diego, CA, juin 2016, p. 84 94, doi: 10.18653/v1/W16-0509.
+X. Chen et D. Meurers, « Characterizing Text Difficulty with Word Frequencies », in Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications, San Diego, CA, juin 2016, p. 84 94.
 
 * "[...] as for how to use word frequencies for building readability prediction models, previous research typically employed mean frequencies or the percentage of words from the top frequency bands to characterize text levels."
 
@@ -27,7 +27,7 @@ X. Chen et D. Meurers, « Characterizing Text Difficulty with Word Frequencies �
 R. Balyan, K. S. McCarthy, et D. S. McNamara, Comparing Machine Learning Classification Approaches for Predicting Expository Text Difficulty. 2018.
 
 [4]
-G. Leroy et D. Kauchak, « The effect of word familiarity on actual and perceived text difficulty », Journal of the American Medical Informatics Association, vol. 21, no e1, p. e169 e172, févr. 2014, doi: 10.1136/amiajnl-2013-002172.
+G. Leroy et D. Kauchak, « The effect of word familiarity on actual and perceived text difficulty », Journal of the American Medical Informatics Association, vol. 21, no e1, p. e169 e172, févr. 2014.
 
 [5]
 N. Gala, S. Profile, T. François, C. Fairon, U. C. D. Louvain, et P. B. Pascal, Towards a French lexicon with difficulty measures:  NLP helping to bridge the gap between traditional dictionaries and specialized lexicons. 2016.
