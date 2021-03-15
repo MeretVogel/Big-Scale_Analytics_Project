@@ -3,7 +3,7 @@
 This team is composed of Meret Vogel, Alberto Molinaro and Pierre Huber.
 
 ## 🔍 Project description
-For the class "Big-Scale Analytics", which is part of our Master's programm in Information Systems, we were giving the following challenge:
+For the class "Big-Scale Analytics", which is part of our Master's programm in Information Systems, we were giving the following challenge: we are creating a model for English speakers that predicts the difficulty of a French written text. (A1-C2)
 
 ## 🖋 Useful ressources
 
