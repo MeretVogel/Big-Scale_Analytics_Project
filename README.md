@@ -36,8 +36,6 @@ G. Leroy et D. Kauchak, « The effect of word familiarity on actual and perceive
 [5]
 N. Gala, S. Profile, T. François, C. Fairon, U. C. D. Louvain, et P. B. Pascal, Towards a French lexicon with difficulty measures:  NLP helping to bridge the gap between traditional dictionaries and specialized lexicons. 2016.
 
-* 
-
 ## 📊 Data Sources
 
 We find the French sentencces in the following data sources:
