@@ -23,6 +23,12 @@ For the class "Big-Scale Analytics", which is part of our Master's programm in I
 
 #### - Comparing Machine Learning Classification Approaches for Predicting Expository Text Difficulty: https://eric.ed.gov/?id=ED585216
 
+## 📊 Data Sources
+
+We find the French sentencces in the following data sources:
+* lingua.com/fr/francais/lecture/
+* simple-french.com/
+
 ## 🦮 Guidance
 
 Our repository is organised in x folders.
