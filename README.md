@@ -26,11 +26,17 @@ X. Chen et D. Meurers, « Characterizing Text Difficulty with Word Frequencies �
 [3]
 R. Balyan, K. S. McCarthy, et D. S. McNamara, Comparing Machine Learning Classification Approaches for Predicting Expository Text Difficulty. 2018.
 
+* "These experiments demonstrated the potential of using hierarchical approaches in text difficulty classification, but also indicated that no one single approach was most accurate."
+
 [4]
 G. Leroy et D. Kauchak, « The effect of word familiarity on actual and perceived text difficulty », Journal of the American Medical Informatics Association, vol. 21, no e1, p. e169 e172, févr. 2014.
 
+* "Our results show that word frequency is strongly associated with both actual difficulty and perceived difficulty. Words with higher frequency were more often defined correctly and were labeled as appearing less difficult."
+
 [5]
 N. Gala, S. Profile, T. François, C. Fairon, U. C. D. Louvain, et P. B. Pascal, Towards a French lexicon with difficulty measures:  NLP helping to bridge the gap between traditional dictionaries and specialized lexicons. 2016.
+
+* 
 
 ## 📊 Data Sources
 
