@@ -9,6 +9,8 @@ For the class "Big-Scale Analytics", which is part of our Master's programm in I
 
 #### - Characterizing Text Difficulty with Word Frequencies: https://www.aclweb.org/anthology/W16-0509.pdf
 
+--> "[...] as for how to use word frequencies for building readability prediction models, previous research typically employed mean frequencies or the percentage of words from the top frequency bands to characterize text levels."
+
 #### - Toward a French lexicon with difficulty measures: NLP helping to bridge the gap between traditional dictionaries and specialized lexions: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.935.4995&rep=rep1&type=pdf
 
 #### - The effect of word familiarity on actual and perceived text difficulty: https://academic.oup.com/jamia/article-abstract/21/e1/e169/791549
