@@ -11,7 +11,7 @@ For the class "Big-Scale Analytics", which is part of our Master's programm in I
 
 --> "[...] as for how to use word frequencies for building readability prediction models, previous research typically employed mean frequencies or the percentage of words from the top frequency bands to characterize text levels."
 
---> "Furthermore, averaging over all occurrences of words in a text will minimize the contribution of low-frequency words."
+--> "Yet, this loses a lot of information about the distribution of word frequencies in the text. Averaging is easily affected by extreme values, and it loses information about the variability of the data. Furthermore, averaging over all occurrences of words in a text will minimize the contribution of low-frequency words."
 
 #### - Toward a French lexicon with difficulty measures: NLP helping to bridge the gap between traditional dictionaries and specialized lexions: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.935.4995&rep=rep1&type=pdf
 
