@@ -5,6 +5,33 @@ This team is composed of Meret Vogel, Alberto Molinaro and Pierre Huber.
 ## 🔍 Project description
 For the class "Big-Scale Analytics", which is part of our Master's programm in Information Systems, we were giving the following challenge: we are creating a model for English speakers that predicts the difficulty of a French written text. (A1-C2)
 
+## 📊 Data Sources
+
+We find the French sentencces in the following data sources:
+* lingua.com/fr/francais/lecture/
+* simple-french.com/
+
+## 🦮 Guidance
+
+Our repository is organised in x folders.
+
+## 📅 Agenda
+
+Under this section, you will find some information about how we proceeded during the project.
+
+1. Milestone (week 1-3)
+* Github preparation
+* Creation of a data pool of annotated french sentences
+* First discovery
+2. Milestone
+3. Milestone
+
+## 🕵️ Solution
+
+The solution that gave us the best accuracy was a solution using ...
+
+## 📽️ Video
+
 ## 🖋 Useful ressources
 
 [1]
@@ -36,29 +63,3 @@ G. Leroy et D. Kauchak, « The effect of word familiarity on actual and perceive
 [5]
 N. Gala, S. Profile, T. François, C. Fairon, U. C. D. Louvain, et P. B. Pascal, Towards a French lexicon with difficulty measures:  NLP helping to bridge the gap between traditional dictionaries and specialized lexicons. 2016.
 
-## 📊 Data Sources
-
-We find the French sentencces in the following data sources:
-* lingua.com/fr/francais/lecture/
-* simple-french.com/
-
-## 🦮 Guidance
-
-Our repository is organised in x folders.
-
-## 📅 Agenda
-
-Under this section, you will find some information about how we proceeded during the project.
-
-1. Milestone (week 1-3)
-* Github preparation
-* Creation of a data pool of annotated french sentences
-* First discovery
-2. Milestone
-3. Milestone
-
-## 🕵️ Solution
-
-The solution that gave us the best accuracy was a solution using ...
-
-## 📽️ Video
