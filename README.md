@@ -32,6 +32,8 @@ The solution that gave us the best accuracy was a solution using ...
 
 ## 📽️ Video
 
+The link to the video will come soon.
+
 ## 🖋 Useful ressources
 
 [1]
